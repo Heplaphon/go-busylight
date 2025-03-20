@@ -1,0 +1,14 @@
+github.com/BaaaZen/go-busylight v0.0.0-20190522072802-cf99bc616f6d h1:p9plMNUJXNM5/ahx3yrFNjyotz/uL8suXMN1qAQq03o=
+github.com/BaaaZen/go-busylight v0.0.0-20190522072802-cf99bc616f6d/go.mod h1:AXamqUEyTnrJR7DTtISbaCXVKfLUKsbCMDC58L9vtkE=
+github.com/baaazen/go-hid v0.0.0-20190401131953-44eba743c8a5 h1:V2ApbkCqxNdqPLeV/V45TpJe4AlEWGyXVAi5SI32Hc8=
+github.com/baaazen/go-hid v0.0.0-20190401131953-44eba743c8a5/go.mod h1:/xua9OzQPfvc+TUREwSMRowrmefGvdvmN/dnAwcbINQ=
+github.com/boombuler/hid v0.0.0-20200606170446-6a2dff8586bc h1:mPoyO6/N4SwSKRhuhYccA3dAVSnQFRl+3kuiTf9ptAQ=
+github.com/boombuler/hid v0.0.0-20200606170446-6a2dff8586bc/go.mod h1:5tIGNm7VNPEAS8ulRl5g4wU/zCpPgj5vyYI5Bo77Hz8=
+github.com/boombuler/led v0.0.0-20190225062837-d94ba02fda02 h1:+RXyv+EV4j1UuCtddZxz1GCEaYnivCpfcAbU8F/E1+c=
+github.com/boombuler/led v0.0.0-20190225062837-d94ba02fda02/go.mod h1:3aukX3oq0T09JVArrfnKSzt2fM9SLHsYS/zZoea+fyM=
+github.com/google/gousb v1.1.3 h1:xt6M5TDsGSZ+rlomz5Si5Hmd/Fvbmo2YCJHN+yGaK4o=
+github.com/google/gousb v1.1.3/go.mod h1:GGWUkK0gAXDzxhwrzetW592aOmkkqSGcj5KLEgmCVUg=
+github.com/sstallion/go-hid v0.14.1 h1:shbZlKqv5fr1KnxwqtLEPGkOoA6OSUWTx9TblegATvc=
+github.com/sstallion/go-hid v0.14.1/go.mod h1:fPKp4rqx0xuoTV94gwKojsPG++KNKhxuU88goGuGM7I=
+golang.org/x/sys v0.8.0 h1:EBmGv8NaZBZTWvrbjNoL6HVt+IVy3QDQpJs7VRIw3tU=
+golang.org/x/sys v0.8.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
