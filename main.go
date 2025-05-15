@@ -29,6 +29,18 @@ type JmpStep struct {
 	Padding     byte
 }
 
+type Tones struct {
+	OpenOffice        int
+	Quiet             int
+	Funky             int
+	FairyTale         int
+	KuandoTrain       int
+	TelephoneNordic   int
+	TelephoneOriginal int
+	TelephonePickMeUp int
+	Buzz              int
+}
+
 type StepB struct {
 	Field1 uint64
 }
@@ -63,6 +75,18 @@ var KeepAlive JmpStep = JmpStep{
 	OnTime:      0x00,
 	OffTime:     0x00,
 	Padding:     0x00,
+}
+
+var tones Tones = Tones{ // TODO: convert these ones, maybe this is a summer project for a L1?
+	OpenOffice:        136,
+	Quiet:             144,
+	Funky:             152,
+	FairyTale:         160,
+	KuandoTrain:       168,
+	TelephoneNordic:   176,
+	TelephoneOriginal: 184,
+	TelephonePickMeUp: 192,
+	Buzz:              216,
 }
 
 // ComputeChecksum calculates the checksum of a byte slice (sum of all bytes)
